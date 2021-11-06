@@ -1,5 +1,6 @@
 import discord, asyncio, os, yaml
 import time
+import requests as rq
 from discord.ext import commands
 
 bot = commands.Bot('$', help_command=None, intents=discord.Intents.all())
